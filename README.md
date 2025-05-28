@@ -1,5 +1,7 @@
 <html> 
-<head> <title> star restaurant </title> </head>
+<head> 
+<b> <title> star restaurant </title> </b>
+</head>
 <body>
 <center>
 <table withdraw="50%" border="1" borderline="#000000" bordercolourdark="#000000" cellspacing="0">
@@ -16,7 +18,7 @@
      <td align="center"> <strong> <font colour="blue">price</font></strong></td></tr>
 
 <tr bgcolour="#ccccccc">
-td align="center"<strong> panner tikka dry </strong></td> <td align="center">100.00</td>
+<td align="center"<strong> panner tikka dry </strong></td> <td align="center">100.00</td>
 <td align="center"<strong> plain roti       </strong></td> <td align="center">10.00</td>
 <td align="center"<strong> panner bhurji    </strong></td> <td align="center">100.00</td>
 </tr>
