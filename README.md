@@ -1,16 +1,14 @@
 <html> 
-<head> 
-<b> <title> star restaurant </title> </b>
-</head>
 <body>
+<b> <title> star restaurant </title> </b>
 <center>
 <table withdraw="50%" border="1" borderline="#000000" bordercolourdark="#000000" cellspacing="0">
 <tr align="center">
  <td align="center" colspan="6"<h1> star restaurant </h1></td> </tr>
 
- <tr><td colpans="2" align="center"><h2>starter </h2></td>
-     <td colpans="2" align="center"><h2> roti and bread </h2></td>
-     <td colpans="2" align="center"><h2>curries </h2></td></tr>
+ <tr><td colpans="2" align="center"><h1>starter </h1></td>
+     <td colpans="2" align="center"><h1> roti and bread </h1></td>
+     <td colpans="2" align="center"><h1>curries </h1></td></tr>
   
 <tr> <td align="center"> <strong> <font colour="blue">item</font></strong></td>
      <td align="center"> <strong> <font colour="blue">price</font></strong></td>
@@ -28,9 +26,9 @@
 <td align="center"<strong> mixed veg           </strong></td> <td align="center">100.00</td>
 </tr>
 
-<tr> <td colpans="2" align="center" <h2> drinks </h2></td>
-     <td colpans="2" align="center"> <h2> deserts</h2></td>
-     <td colpans="2" align="center"> <h2> water</h2></td></tr>
+<tr> <td colpans="2" align="center"> <h1> drinks </h1></td>
+     <td colpans="2" align="center"> <h1> deserts</h1></td>
+     <td colpans="2" align="center"> <h1> water</h1></td></tr>
 
 <tr> <td align="center"> <strong> <font colour="blue">item</font></strong></td>
      <td align="center"> <strong> <font colour="blue">price</font></strong></td>
